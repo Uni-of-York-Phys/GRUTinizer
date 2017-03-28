@@ -1,6 +1,6 @@
 [submodule "GRAnalyzer"]
 	path = GRAnalyzer
-	url = https://github.com/Uni-of-York-Phys/GRAnalyzer
+	url = https://github.com/Uni-of-York-Phys/GRAnalyzer/tree/RCNPEvent
 [submodule "MPIEventLoop"]
 	path = MPIEventLoop
-	url = https://github.com/Uni-of-York-Phys/MPIEventLoop
+	url = https://github.com/Uni-of-York-Phys/MPIEventLoop/tree/rcnp
